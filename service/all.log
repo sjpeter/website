@@ -1,0 +1,13 @@
+[2018-10-23T10:36:12.434] [DEBUG] all - Decoded from JWT token: username - undefined
+[2018-10-23T10:36:45.981] [DEBUG] all - Decoded from JWT token: username - undefined
+[2018-10-23T10:37:48.516] [DEBUG] all - Decoded from JWT token: username - undefined
+[2018-10-23T10:38:16.269] [DEBUG] all - Decoded from JWT token: username - undefined
+[2018-10-23T10:38:42.382] [DEBUG] all - Decoded from JWT token: username - admin
+[2018-10-23T10:39:53.606] [DEBUG] all - Decoded from JWT token: username - admin
+[2018-10-23T10:40:15.668] [DEBUG] all - Decoded from JWT token: username - admin
+[2018-10-23T10:45:11.353] [DEBUG] all - Decoded from JWT token: username - admin
+[2018-10-23T10:45:39.187] [DEBUG] all - Decoded from JWT token: username - admin
+[2018-10-23T10:45:45.556] [DEBUG] all - Decoded from JWT token: username - admin
+[2018-10-23T10:46:02.427] [DEBUG] all - Decoded from JWT token: username - admin
+[2018-10-23T10:50:24.996] [DEBUG] all - Decoded from JWT token: username - admin
+[2018-10-23T10:50:42.977] [DEBUG] all - Decoded from JWT token: username - admin

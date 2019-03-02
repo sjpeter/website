@@ -1,0 +1,12 @@
+[2018-10-23T10:52:39.804] [DEBUG] all - Decoded from JWT token: username - admin
+[2018-10-23T10:53:27.732] [INFO] all - Decoded from JWT token: username - admin
+[2018-11-07T16:42:19.021] [INFO] all - [object Object]
+[2018-11-08T10:31:53.530] [INFO] login - login username: admin
+[2018-11-08T10:31:53.541] [INFO] sql - login update username: admin success
+[2018-11-08T10:31:53.547] [INFO] sql - login update username: admin success
+[2018-11-08T16:02:42.228] [INFO] login - login username: admin
+[2018-11-08T16:02:42.242] [INFO] sql - login update username: admin success
+[2018-11-08T16:02:42.245] [INFO] sql - login update username: admin success
+[2018-11-09T09:43:58.614] [INFO] login - login username: admin
+[2018-11-09T09:43:58.624] [INFO] sql - login update username: admin success
+[2018-11-09T09:43:58.630] [INFO] sql - login update username: admin success

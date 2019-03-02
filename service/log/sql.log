@@ -1,0 +1,107 @@
+[2018-10-23T17:00:10.407] [INFO] login - Login username: admin
+[2018-10-23T17:14:11.034] [INFO] sql - user create: root, Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Oct 23 2018 17:14:10 GMT+0800 (中国标准时间))' at line 1
+[2018-10-23T17:17:02.760] [INFO] sql - user create: root, Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Oct 23 2018 17:17:02 GMT+0800 (中国标准时间))' at line 1
+[2018-10-23T17:41:37.271] [INFO] login - Login username: admin
+[2018-10-23T17:49:26.837] [INFO] login - Login username: admin
+[2018-10-23T17:57:27.999] [INFO] login - Login username: admin
+[2018-10-23T17:57:40.408] [INFO] login - Login username: admin
+[2018-10-23T17:59:19.577] [INFO] login - Login username: admin
+[2018-10-24T09:24:22.461] [INFO] login - Login username: admin
+[2018-10-24T10:56:40.663] [INFO] sql - Login username: admin, TypeError: key.test is not a function
+[2018-10-24T10:57:43.965] [INFO] sql - Login username: admin, TypeError: key.test is not a function
+[2018-10-24T10:58:17.006] [INFO] sql - Login username: admin, TypeError: key.test is not a function
+[2018-10-24T10:59:39.009] [INFO] sql - Login username: admin, TypeError: key.test is not a function
+[2018-10-24T11:00:23.098] [INFO] sql - Login username: admin, ReferenceError: userAgent is not defined
+[2018-10-24T11:00:27.612] [INFO] sql - Login username: admin, ReferenceError: userAgent is not defined
+[2018-10-24T11:01:37.100] [INFO] login - Login username: admin
+[2018-10-24T11:02:55.857] [INFO] sql - Login username: admin, ReferenceError: userAgent is not defined
+[2018-10-24T11:03:09.026] [INFO] login - Login username: admin
+[2018-10-24T11:12:56.964] [INFO] login - Login username: admin
+[2018-10-24T11:14:04.251] [INFO] login - Login username: admin
+[2018-10-24T11:14:43.772] [INFO] login - Login username: admin
+[2018-10-24T11:17:34.961] [INFO] login - Login username: admin
+[2018-10-24T11:18:13.759] [INFO] login - Login username: admin
+[2018-10-24T11:18:41.209] [INFO] login - Login username: admin
+[2018-10-24T11:19:07.376] [INFO] login - Login username: admin
+[2018-10-24T11:22:32.646] [INFO] login - Login username: admin
+[2018-10-24T13:23:38.309] [INFO] login - Login username: admin
+[2018-10-24T13:23:38.314] [INFO] sql - Login username: admin, TypeError: Cannot use 'in' operator to search for 'page' in update user set visits += 1, ip = "::1", lateDate = "2018-10-24 13:23:38", terminal = "Windows 10", browser = "chrome 67" where id = "c0307410d37711e887ca0d391f9cafce"
+[2018-10-24T13:24:39.194] [INFO] login - Login username: admin
+[2018-10-24T13:24:39.204] [INFO] sql - Login username: admin, TypeError: Cannot use 'in' operator to search for 'page' in update user set visits += 1, ip = "::1", lateDate = "2018-10-24 13:24:39", terminal = "Windows 10", browser = "chrome 67" where id = "c0307410d37711e887ca0d391f9cafce"
+[2018-10-24T13:25:24.124] [INFO] login - Login username: admin
+[2018-10-24T13:25:24.131] [INFO] sql - Login username: admin, TypeError: Cannot use 'in' operator to search for 'page' in update user set visits += 1, ip = "::1", lateDate = "2018-10-24 13:25:24", terminal = "Windows 10", browser = "chrome 67" where id = "c0307410d37711e887ca0d391f9cafce"
+[2018-10-24T13:28:08.488] [INFO] sql - Login username: admin, TypeError: Cannot use 'in' operator to search for 'page' in update user set visits += 1, ip = "::1", lateDate = "2018-10-24 13:28:08", terminal = "Windows 10", browser = "chrome 67" where id = "c0307410d37711e887ca0d391f9cafce"
+[2018-10-24T13:29:52.999] [INFO] sql - Login username: admin, TypeError: Cannot use 'in' operator to search for 'page' in update user set visits += 1, ip = "::1", lateDate = "2018-10-24 13:29:52", terminal = "Windows 10", browser = "chrome 67" where id = "c0307410d37711e887ca0d391f9cafce"
+[2018-10-24T14:16:11.407] [INFO] sql - Login username: admin, TypeError: Cannot use 'in' operator to search for 'page' in update %s set %s, %s, %s, %s, %s where %s
+[2018-10-24T14:17:11.320] [INFO] sql - Login username: admin, TypeError: Cannot use 'in' operator to search for 'page' in update user set visits += 1, ip = "::1", lateDate = "2018-10-24 14:17:11", terminal = "Windows 10", browser = "chrome 67" where %s
+[2018-10-24T14:17:44.449] [INFO] sql - Login username: admin, TypeError: Cannot use 'in' operator to search for 'page' in update user set ip = "::1", lateDate = "2018-10-24 14:17:44", terminal = "Windows 10", browser = "chrome 67", %s where %s
+[2018-10-24T14:19:01.436] [INFO] sql - Login username: admin, TypeError: Cannot use 'in' operator to search for 'page' in update user set visits += 1, ip = "::1", lateDate = "2018-10-24 14:19:01", terminal = "Windows 10", browser = "chrome 67" where id = "c0307410d37711e887ca0d391f9cafce"
+[2018-10-24T14:19:24.316] [INFO] sql - Login username: admin, TypeError: Cannot use 'in' operator to search for 'page' in update user set ip = "::1", lateDate = "2018-10-24 14:19:24", terminal = "Windows 10", browser = "chrome 67" where id = "c0307410d37711e887ca0d391f9cafce"
+[2018-10-24T14:22:13.524] [INFO] login - Login username: admin
+[2018-10-24T14:22:13.560] [INFO] login - Login username: admin
+[2018-10-24T14:24:30.252] [INFO] sql - Login username: admin, TypeError: Cannot use 'in' operator to search for 'page' in UPDATE user SET ip = "::1", lateDate = "2018-10-24 14:24:30", terminal = "Windows 10", browser = "chrome 67" Where id = "c0307410d37711e887ca0d391f9cafce"
+[2018-10-24T14:26:13.090] [INFO] sql - Login username: admin, TypeError: Cannot use 'in' operator to search for 'page' in UPDATE user SET ip = "::1", lateDate = "2018-10-24 14:26:13", terminal = "Windows 10", browser = "chrome 67" Where id = "c0307410d37711e887ca0d391f9cafce"
+[2018-10-24T14:26:31.182] [INFO] login - Login username: admin
+[2018-10-24T14:26:31.196] [INFO] login - Login username: admin
+[2018-10-24T14:28:07.838] [INFO] sql - Login username: admin, TypeError: Cannot use 'in' operator to search for 'page' in UPDATE user SET ip = "::1", lateDate = "2018-10-24 14:28:04", terminal = "Windows 10", browser = "chrome 67" Where  ( id = "c0307410d37711e887ca0d391f9cafce" )
+[2018-10-24T14:28:24.591] [INFO] sql - Login username: admin, TypeError: Cannot use 'in' operator to search for 'page' in UPDATE user SET ip = "::1", lateDate = "2018-10-24 14:28:24", terminal = "Windows 10", browser = "chrome 67" Where ( id = "c0307410d37711e887ca0d391f9cafce" )
+[2018-10-24T14:28:54.086] [INFO] sql - Login username: admin, TypeError: Cannot use 'in' operator to search for 'page' in UPDATE user SET ip = "::1", lateDate = "2018-10-24 14:28:54", terminal = "Windows 10", browser = "chrome 67" WHERE ( id = "c0307410d37711e887ca0d391f9cafce" )
+[2018-10-24T14:36:53.427] [INFO] login - Login username: admin
+[2018-10-24T14:37:30.725] [INFO] login - Login username: admin
+[2018-10-24T14:38:11.724] [INFO] login - Login username: admin
+[2018-10-24T14:38:11.735] [INFO] login - Login username: admin
+[2018-10-24T14:40:03.082] [INFO] login - Login username: admin
+[2018-10-24T14:40:03.096] [INFO] login - Login username: admin
+[2018-10-24T14:40:47.642] [INFO] login - Login username: admin
+[2018-10-24T14:40:47.657] [INFO] login - Login username: admin
+[2018-10-24T14:54:21.791] [INFO] login - Login username: admin
+[2018-10-24T14:54:21.806] [INFO] sql - Login update username: admin success
+[2018-10-24T14:54:21.872] [INFO] sql - Login update username: admin success
+[2018-10-24T14:54:28.809] [INFO] login - Login username: admin
+[2018-10-24T14:54:28.819] [INFO] sql - Login update username: admin success
+[2018-10-24T14:54:28.819] [INFO] sql - Login update username: admin success
+[2018-10-24T16:31:46.501] [INFO] login - login username: admin
+[2018-10-24T16:31:46.513] [INFO] sql - login update username: admin success
+[2018-10-24T16:31:46.516] [INFO] sql - login update username: admin success
+[2018-10-25T09:38:33.687] [INFO] login - login username: admin
+[2018-10-25T09:38:33.698] [INFO] sql - login update username: admin success
+[2018-10-25T09:38:33.705] [INFO] sql - login update username: admin success
+[2018-10-25T11:00:03.440] [INFO] login - login username: admin
+[2018-10-25T11:00:03.451] [INFO] sql - login update username: admin success
+[2018-10-25T11:00:03.458] [INFO] sql - login update username: admin success
+[2018-10-25T11:02:03.772] [ERROR] sql - pool conn : null
+[2018-10-25T11:02:50.568] [ERROR] sql - pool conn : null
+[2018-10-25T11:03:47.117] [ERROR] sql - pool conn : null
+[2018-10-25T11:04:06.416] [ERROR] sql - pool conn : null
+[2018-10-25T11:04:32.209] [ERROR] sql - pool conn : null
+[2018-10-25T11:06:07.682] [ERROR] sql - pool conn : null
+[2018-10-25T11:06:46.741] [ERROR] sql - pool conn : null
+[2018-10-30T14:28:31.064] [INFO] login - login username: admin
+[2018-10-30T14:28:31.084] [INFO] sql - login update username: admin success
+[2018-10-30T14:28:31.085] [INFO] sql - login update username: admin success
+[2018-10-30T14:44:54.761] [INFO] login - login username: admin
+[2018-10-30T14:44:54.767] [INFO] sql - login update username: admin success
+[2018-10-30T14:44:54.770] [INFO] sql - login update username: admin success
+[2018-11-05T14:09:18.984] [INFO] login - login username: admin
+[2018-11-05T14:09:19.008] [INFO] sql - login update username: admin success
+[2018-11-05T14:09:19.009] [INFO] sql - login update username: admin success
+[2018-11-06T09:34:37.565] [INFO] login - login username: admin
+[2018-11-06T09:34:37.583] [INFO] sql - login update username: admin success
+[2018-11-06T09:34:37.592] [INFO] sql - login update username: admin success
+[2018-11-06T15:25:10.404] [INFO] login - login username: admin
+[2018-11-06T15:25:10.420] [INFO] sql - login update username: admin success
+[2018-11-06T15:25:10.456] [INFO] sql - login update username: admin success
+[2018-11-06T15:25:27.789] [ERROR] sql - user create: undefined, Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+[2018-11-07T10:58:46.234] [INFO] login - login username: admin
+[2018-11-07T10:58:46.248] [INFO] sql - login update username: admin success
+[2018-11-07T10:58:46.252] [INFO] sql - login update username: admin success
+[2018-11-07T16:42:19.021] [INFO] all - [object Object]
+[2018-11-08T10:31:53.530] [INFO] login - login username: admin
+[2018-11-08T10:31:53.541] [INFO] sql - login update username: admin success
+[2018-11-08T10:31:53.547] [INFO] sql - login update username: admin success
+[2018-11-08T16:02:42.228] [INFO] login - login username: admin
+[2018-11-08T16:02:42.242] [INFO] sql - login update username: admin success
+[2018-11-08T16:02:42.245] [INFO] sql - login update username: admin success
+[2018-11-09T09:43:58.614] [INFO] login - login username: admin
+[2018-11-09T09:43:58.624] [INFO] sql - login update username: admin success
+[2018-11-09T09:43:58.630] [INFO] sql - login update username: admin success
